@@ -1,4 +1,4 @@
-# exemplificação de estrutura de dados
+# exemplificação de estrutura de dados mutáveis
 
 pessoa = {"nome": "Nicolas", "idade": 20, "cidade": "Itajuba"}
 
